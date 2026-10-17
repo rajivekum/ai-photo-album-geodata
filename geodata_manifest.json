@@ -9,6 +9,88 @@
    "file": "places-world.sqlite.gz",
    "size": 304893209,
    "sha256": "03e3ae7567639a4b9dc0c77ec2c800fd4a6d0f100c0e3b38a694ee88a98d96d9",
+   "parts": [
+    {
+     "file": "places-world.sqlite.gz.part01",
+     "size": 20000000,
+     "sha256": "85e0fbbdcf3a3aa2ba931f8ad8d2f8e021537ab86c2a6094c96a122d3a9316b6"
+    },
+    {
+     "file": "places-world.sqlite.gz.part02",
+     "size": 20000000,
+     "sha256": "5243bf741c90eadd3cca867603fd2f6ef0f10dd0233b5a60b7e8a0e3be8a9737"
+    },
+    {
+     "file": "places-world.sqlite.gz.part03",
+     "size": 20000000,
+     "sha256": "9579825fa7aa311783d3bfcf160df375c17a2fc70eac45736745b7cbb667b0e4"
+    },
+    {
+     "file": "places-world.sqlite.gz.part04",
+     "size": 20000000,
+     "sha256": "c7f4ae5d72f0549455a09bb48d419c7440551ecdd8fad7ab4127466f9c141f55"
+    },
+    {
+     "file": "places-world.sqlite.gz.part05",
+     "size": 20000000,
+     "sha256": "f3fbb39ca97e6841d57e920dda591ee996fc06fc311a441bf80e1ebc09c4c557"
+    },
+    {
+     "file": "places-world.sqlite.gz.part06",
+     "size": 20000000,
+     "sha256": "e11ca02a65ef1c6435da4dfdf3c3361f520fcdff2ccfea6ab961884b006686c9"
+    },
+    {
+     "file": "places-world.sqlite.gz.part07",
+     "size": 20000000,
+     "sha256": "d18203976e5c0a64b9d2c529d0ea8944e634939bb0b3f5817155b0eb80141211"
+    },
+    {
+     "file": "places-world.sqlite.gz.part08",
+     "size": 20000000,
+     "sha256": "240e27fcd27e92607d28f0304479c62f792f6b12da9a02f53db8459ad4199a98"
+    },
+    {
+     "file": "places-world.sqlite.gz.part09",
+     "size": 20000000,
+     "sha256": "16c97c953a0014cc999f83bc76114e411f9ec10fdec5b1bdca5445d27e0c59ba"
+    },
+    {
+     "file": "places-world.sqlite.gz.part10",
+     "size": 20000000,
+     "sha256": "bf4e6aa36238574c126b0eb291a278f2627e968c7f9e44c4be2bf67eaa384481"
+    },
+    {
+     "file": "places-world.sqlite.gz.part11",
+     "size": 20000000,
+     "sha256": "866081510dd272fd1a70d8d190c0eab4a59dd927a1accfa51e5d999151d8aa29"
+    },
+    {
+     "file": "places-world.sqlite.gz.part12",
+     "size": 20000000,
+     "sha256": "6fbeecdcf0672c1b47c56dbee66016c84fb7e6e8e290e8972e56c36915fb3c76"
+    },
+    {
+     "file": "places-world.sqlite.gz.part13",
+     "size": 20000000,
+     "sha256": "b3ea150c1ea0cecc26e459f48c068a9835947fe73a35c33d7e260c6a4601918d"
+    },
+    {
+     "file": "places-world.sqlite.gz.part14",
+     "size": 20000000,
+     "sha256": "557bc5efdc5015ccf019ba3f9bbf160d21dd393e1b65c56f1b63e92de17cfa12"
+    },
+    {
+     "file": "places-world.sqlite.gz.part15",
+     "size": 20000000,
+     "sha256": "f3bc2a02bba5cfd6a7e7e3daacc20907628aea99c25db0dfae0e7262bb52c90b"
+    },
+    {
+     "file": "places-world.sqlite.gz.part16",
+     "size": 4893209,
+     "sha256": "114bd5d1dfff156e91fe1efcf04e8c76437135b86dddea2923e4c787bb059fac"
+    }
+   ],
    "sqlite_size": 764108800
   },
   "countries": {
@@ -353,7 +435,19 @@
     "continent": "AS",
     "file": "places-CN.sqlite.gz",
     "size": 37032352,
-    "sha256": "33e97ead6f6ab2ce99fefb36627a2177fee5be15cbeb9b1e0f65507ae1652e21"
+    "sha256": "33e97ead6f6ab2ce99fefb36627a2177fee5be15cbeb9b1e0f65507ae1652e21",
+    "parts": [
+     {
+      "file": "places-CN.sqlite.gz.part01",
+      "size": 20000000,
+      "sha256": "e7f6fe9d2379c7a613b0c050f5811bceadf445e1aee4b222bbf35511efcc3d9a"
+     },
+     {
+      "file": "places-CN.sqlite.gz.part02",
+      "size": 17032352,
+      "sha256": "ba2f3ffcf4376890797674c5fa9ac847d4e895e61be638509a49df6dc333e931"
+     }
+    ]
    },
    "CO": {
     "name": "Colombia",
@@ -752,7 +846,19 @@
     "continent": "AS",
     "file": "places-IN.sqlite.gz",
     "size": 24049896,
-    "sha256": "140a54107ce716b89d7388ce1a4f3ed6139c5d810926219c01a7e76693f050b6"
+    "sha256": "140a54107ce716b89d7388ce1a4f3ed6139c5d810926219c01a7e76693f050b6",
+    "parts": [
+     {
+      "file": "places-IN.sqlite.gz.part01",
+      "size": 20000000,
+      "sha256": "facea755634dc9e85a9b96cca541207e10cd69ba3acf35d743dadc142bf40434"
+     },
+     {
+      "file": "places-IN.sqlite.gz.part02",
+      "size": 4049896,
+      "sha256": "a01cdbd59d2cfb6f0921008bf3c8746c101de4f5d9f504c581889c61968c59a3"
+     }
+    ]
    },
    "IO": {
     "name": "British Indian Ocean Territory",
@@ -1648,7 +1754,19 @@
     "continent": "NA",
     "file": "places-US.sqlite.gz",
     "size": 26646817,
-    "sha256": "8f56e36a761ff7e256ecbe74cfa40e1dda6f3b12eec1553afbb49d18e0dfdcc0"
+    "sha256": "8f56e36a761ff7e256ecbe74cfa40e1dda6f3b12eec1553afbb49d18e0dfdcc0",
+    "parts": [
+     {
+      "file": "places-US.sqlite.gz.part01",
+      "size": 20000000,
+      "sha256": "022982be3366da81397baa53bcf640c34d78ea1f12ef8fd24840c9250e80cad1"
+     },
+     {
+      "file": "places-US.sqlite.gz.part02",
+      "size": 6646817,
+      "sha256": "5b27ec661fa076ef4c1466a81b5d84e2459e3e940e2e1cedb85a996a2a8b6abd"
+     }
+    ]
    },
    "UY": {
     "name": "Uruguay",
@@ -1777,6 +1895,23 @@
   "file": "padus.sqlite.gz",
   "size": 51153140,
   "sha256": "29dfd21aceed9c0abdcb2defa71ccaeb9bb134b4dfb016339d6c51074ec8c170",
+  "parts": [
+   {
+    "file": "padus.sqlite.gz.part01",
+    "size": 20000000,
+    "sha256": "da23483da521924abba968170e5cd4924a1276bdf0a562bb343ed8c2052d2768"
+   },
+   {
+    "file": "padus.sqlite.gz.part02",
+    "size": 20000000,
+    "sha256": "b87fc41dacb7ecf14f079076ac6cf5c98bc3a2b4b75d7b2e432f5a5d43f3dde5"
+   },
+   {
+    "file": "padus.sqlite.gz.part03",
+    "size": 11153140,
+    "sha256": "9fe1808826b859316a5a70f06477525c7a45c36cee87b7402717bcddc0a8c2a0"
+   }
+  ],
   "sqlite_size": 111198208
  }
 }
