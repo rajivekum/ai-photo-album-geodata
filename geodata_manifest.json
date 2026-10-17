@@ -1,0 +1,1782 @@
+{
+ "format": 1,
+ "release_tag": "geodata-2026.10.16",
+ "base_url": "https://github.com/rajivekum/ai-photo-album-geodata/releases/download/geodata-2026.10.16/",
+ "geonames": {
+  "build_id": "geonames-2026-10-16",
+  "source": "GeoNames (CC BY 4.0) https://www.geonames.org/",
+  "world": {
+   "file": "places-world.sqlite.gz",
+   "size": 304893209,
+   "sha256": "03e3ae7567639a4b9dc0c77ec2c800fd4a6d0f100c0e3b38a694ee88a98d96d9",
+   "sqlite_size": 764108800
+  },
+  "countries": {
+   "AD": {
+    "name": "Andorra",
+    "continent": "EU",
+    "file": "places-AD.sqlite.gz",
+    "size": 59323,
+    "sha256": "fd9ea329150b8e528b78a9f1a7208d933341b15e16cc8514dbd61f17e07c6d53"
+   },
+   "AE": {
+    "name": "United Arab Emirates",
+    "continent": "AS",
+    "file": "places-AE.sqlite.gz",
+    "size": 78257,
+    "sha256": "0e993fa4525ac21383a8958b752110ae21c157b4854b20a9987f4a7f5cdf374a"
+   },
+   "AF": {
+    "name": "Afghanistan",
+    "continent": "AS",
+    "file": "places-AF.sqlite.gz",
+    "size": 2410444,
+    "sha256": "04e31fac980e7c2838381e5aaf780b38b3994f963f31cd0f43ae8ab9d83dc924"
+   },
+   "AG": {
+    "name": "Antigua and Barbuda",
+    "continent": "NA",
+    "file": "places-AG.sqlite.gz",
+    "size": 32102,
+    "sha256": "83f129ba273bdbe7c4f38741e38a746878f21cefeba0c4582fb7069b2490fb13"
+   },
+   "AI": {
+    "name": "Anguilla",
+    "continent": "NA",
+    "file": "places-AI.sqlite.gz",
+    "size": 17383,
+    "sha256": "08672c4dc887cedf2e747b0cc6c297a1cca972de35d7eb25e8aee2223836550d"
+   },
+   "AL": {
+    "name": "Albania",
+    "continent": "EU",
+    "file": "places-AL.sqlite.gz",
+    "size": 271327,
+    "sha256": "de8be0ba6a657bc4f9691c115799b33870e23c1cf287f4c8f2c04988a56d816a"
+   },
+   "AM": {
+    "name": "Armenia",
+    "continent": "AS",
+    "file": "places-AM.sqlite.gz",
+    "size": 444970,
+    "sha256": "a3171b96921de5cd1d33254b5aaa32104fe780361b10433d2b6c8278e8b83c19"
+   },
+   "AN": {
+    "name": "Netherlands Antilles",
+    "continent": "NA",
+    "file": "places-AN.sqlite.gz",
+    "size": 9334,
+    "sha256": "406ee45344c56cfa626c694a11b785e4f658818e406e7c0698b32dbf5083c670"
+   },
+   "AO": {
+    "name": "Angola",
+    "continent": "AF",
+    "file": "places-AO.sqlite.gz",
+    "size": 859604,
+    "sha256": "56d561b707e8c654968018590064e2b4d510a654d5cc061257059e8574c41588"
+   },
+   "AQ": {
+    "name": "Antarctica",
+    "continent": "AN",
+    "file": "places-AQ.sqlite.gz",
+    "size": 517777,
+    "sha256": "81e5646e8581aba62a025bc1dfafc156bc92b4e493b9b6646987bc6708eff513"
+   },
+   "AR": {
+    "name": "Argentina",
+    "continent": "SA",
+    "file": "places-AR.sqlite.gz",
+    "size": 1151802,
+    "sha256": "274198ed269bd206ddf4220367710e4b759de68da78f44c6910e67e83895c03a"
+   },
+   "AS": {
+    "name": "American Samoa",
+    "continent": "OC",
+    "file": "places-AS.sqlite.gz",
+    "size": 40101,
+    "sha256": "35fb5365ea396e02454ba4712120ecbee59d4ddc9e5cc1ce52f6003a2a7e15d3"
+   },
+   "AT": {
+    "name": "Austria",
+    "continent": "EU",
+    "file": "places-AT.sqlite.gz",
+    "size": 1298852,
+    "sha256": "2df888018033c36082ee2bdea9503723f40011737cc0eefe41df7e3e0cf0d50b"
+   },
+   "AU": {
+    "name": "Australia",
+    "continent": "OC",
+    "file": "places-AU.sqlite.gz",
+    "size": 2804806,
+    "sha256": "ce21737e641e14632bc42526b1cdc7b644d737e7c44386aca61cd0603a6b6486"
+   },
+   "AW": {
+    "name": "Aruba",
+    "continent": "NA",
+    "file": "places-AW.sqlite.gz",
+    "size": 16174,
+    "sha256": "b5a6a46fdd2ede968409823b461367e6a9c57000eab829d56f791a726b1b45a1"
+   },
+   "AX": {
+    "name": "Aland Islands",
+    "continent": "EU",
+    "file": "places-AX.sqlite.gz",
+    "size": 134082,
+    "sha256": "84c5541fa20ec1047c0d2fa2fe865d1050e3116694d751f36221372c7d21d9bc"
+   },
+   "AZ": {
+    "name": "Azerbaijan",
+    "continent": "AS",
+    "file": "places-AZ.sqlite.gz",
+    "size": 354644,
+    "sha256": "f38b006148e525f499b2fceae6e71a3a49c17fc38b4b819cc9154fee97881507"
+   },
+   "BA": {
+    "name": "Bosnia and Herzegovina",
+    "continent": "EU",
+    "file": "places-BA.sqlite.gz",
+    "size": 1338686,
+    "sha256": "620ac8abadd15c12c6bc940fd35fe0eef64f3ecf0c3aaf0cdf0ea15f7722b697"
+   },
+   "BB": {
+    "name": "Barbados",
+    "continent": "NA",
+    "file": "places-BB.sqlite.gz",
+    "size": 46830,
+    "sha256": "474d0ecab884dcec8211390b968f272a6cfb9f51d8bf8c769d25697cf973e7a9"
+   },
+   "BD": {
+    "name": "Bangladesh",
+    "continent": "AS",
+    "file": "places-BD.sqlite.gz",
+    "size": 2166154,
+    "sha256": "b1ba3bdaa446dea55800236d6af39edac169a60194e01618ea6ce00d18a42149"
+   },
+   "BE": {
+    "name": "Belgium",
+    "continent": "EU",
+    "file": "places-BE.sqlite.gz",
+    "size": 636383,
+    "sha256": "f61a39137374b1d9da1d7730da92d84e2476f64aa5d0fa152e3128561dbab328"
+   },
+   "BF": {
+    "name": "Burkina Faso",
+    "continent": "AF",
+    "file": "places-BF.sqlite.gz",
+    "size": 455333,
+    "sha256": "554e08eca71b051f74623e5f8aa9a3992950622e26a55f5306bacfd5b6c61e3f"
+   },
+   "BG": {
+    "name": "Bulgaria",
+    "continent": "EU",
+    "file": "places-BG.sqlite.gz",
+    "size": 400279,
+    "sha256": "0a68d2e6103e38be916bbcd5841c043ba861d1e3daa8b22677bb5274468df202"
+   },
+   "BH": {
+    "name": "Bahrain",
+    "continent": "AS",
+    "file": "places-BH.sqlite.gz",
+    "size": 21361,
+    "sha256": "5852568670ae7ab1a404541945c9df507536ffe8f989273975d418c135b576ed"
+   },
+   "BI": {
+    "name": "Burundi",
+    "continent": "AF",
+    "file": "places-BI.sqlite.gz",
+    "size": 320459,
+    "sha256": "4c61bb8bb1cb70352006550e804640685b4c8e1b3a8efa196519aecbcdce2af9"
+   },
+   "BJ": {
+    "name": "Benin",
+    "continent": "AF",
+    "file": "places-BJ.sqlite.gz",
+    "size": 184199,
+    "sha256": "9ba49f1fc32f778d70f97a9d92715928a362fce3bd6e65f580c4a89dc67a48f0"
+   },
+   "BL": {
+    "name": "Saint Barthelemy",
+    "continent": "NA",
+    "file": "places-BL.sqlite.gz",
+    "size": 12403,
+    "sha256": "ba6d8780e9c7b717bf1f4bc14dc6e2f2d572a26aff7cdeee6dcd88582b179200"
+   },
+   "BM": {
+    "name": "Bermuda",
+    "continent": "NA",
+    "file": "places-BM.sqlite.gz",
+    "size": 26936,
+    "sha256": "9fc068aa1199b586ae5a16114e5062b395a7440ec8ba75fc4d1f7eb957171d61"
+   },
+   "BN": {
+    "name": "Brunei",
+    "continent": "AS",
+    "file": "places-BN.sqlite.gz",
+    "size": 34922,
+    "sha256": "ee9a784de756da96a4e3e505014db9cda974150578a2fa4dafc2c36251fdddaa"
+   },
+   "BO": {
+    "name": "Bolivia",
+    "continent": "SA",
+    "file": "places-BO.sqlite.gz",
+    "size": 1260831,
+    "sha256": "aa402c028334c45d2f7870d8a5e65db391c2e8c09e59cfb4cb59cea1a439aa17"
+   },
+   "BQ": {
+    "name": "Bonaire, Saint Eustatius and Saba ",
+    "continent": "NA",
+    "file": "places-BQ.sqlite.gz",
+    "size": 22350,
+    "sha256": "19089bc7837218242bae9be6282aea3ad9ab77c2535655abc3ed387b374e4b3e"
+   },
+   "BR": {
+    "name": "Brazil",
+    "continent": "SA",
+    "file": "places-BR.sqlite.gz",
+    "size": 3628643,
+    "sha256": "d7ca3b124f6c6299a2ff117b190b72f2211c30ead827d5c409dc72d52b7009be"
+   },
+   "BS": {
+    "name": "Bahamas",
+    "continent": "NA",
+    "file": "places-BS.sqlite.gz",
+    "size": 83229,
+    "sha256": "1b95c1e59c8f928556c9556fafcb0dd8b39a076229bcbdff10fefeb655b70d26"
+   },
+   "BT": {
+    "name": "Bhutan",
+    "continent": "AS",
+    "file": "places-BT.sqlite.gz",
+    "size": 27408,
+    "sha256": "86c36fcc8f4b0435617ec2b6fdf8f5e3c8526197b9fb92fb60a87baaf95a4ab1"
+   },
+   "BV": {
+    "name": "Bouvet Island",
+    "continent": "AN",
+    "file": "places-BV.sqlite.gz",
+    "size": 10641,
+    "sha256": "35eff04d378b8892b29500f1c6874319b2d34000bc741affb354d5b019c53359"
+   },
+   "BW": {
+    "name": "Botswana",
+    "continent": "AF",
+    "file": "places-BW.sqlite.gz",
+    "size": 99606,
+    "sha256": "429dcbf520ed904c726c65f0b08b91f75effa988d8d98d251e902d116e659532"
+   },
+   "BY": {
+    "name": "Belarus",
+    "continent": "EU",
+    "file": "places-BY.sqlite.gz",
+    "size": 1183003,
+    "sha256": "192bba67b38894d446ece861cbca21a64000231c17558bfe0aaca09fe1bbd526"
+   },
+   "BZ": {
+    "name": "Belize",
+    "continent": "NA",
+    "file": "places-BZ.sqlite.gz",
+    "size": 63621,
+    "sha256": "d19c44a9e59ed547f80347d45e55e78a8d5437f7b81626c1acd862084e9a215a"
+   },
+   "CA": {
+    "name": "Canada",
+    "continent": "NA",
+    "file": "places-CA.sqlite.gz",
+    "size": 8326013,
+    "sha256": "2da2df4a80ab09945bf2d3158ad8c8d0f0362dd34534fdfe7c0da0c9a5479edc"
+   },
+   "CC": {
+    "name": "Cocos Islands",
+    "continent": "AS",
+    "file": "places-CC.sqlite.gz",
+    "size": 11329,
+    "sha256": "fbe1a8facaffa3a74d971abc3e32f43ced4c9421b048029de80155561c1bea8e"
+   },
+   "CD": {
+    "name": "Democratic Republic of the Congo",
+    "continent": "AF",
+    "file": "places-CD.sqlite.gz",
+    "size": 1663062,
+    "sha256": "0eab0f0ee1d61a4e228ca65b0e489591680b985c2c955208f2efe1ebc335b6df"
+   },
+   "CF": {
+    "name": "Central African Republic",
+    "continent": "AF",
+    "file": "places-CF.sqlite.gz",
+    "size": 268808,
+    "sha256": "c5e41726c581cff048d135c70fdda3cf831166c34426b97c596f174f25480490"
+   },
+   "CG": {
+    "name": "Republic of the Congo",
+    "continent": "AF",
+    "file": "places-CG.sqlite.gz",
+    "size": 270842,
+    "sha256": "6c910a076d241d06fdbf0f0ff4b32b159384d63a5a0838c3557da2f035c46a1c"
+   },
+   "CH": {
+    "name": "Switzerland",
+    "continent": "EU",
+    "file": "places-CH.sqlite.gz",
+    "size": 1106516,
+    "sha256": "766040e7115d4e4e3c4d437d7e0b97ea557331e1c71046e35fc3f460515e8173"
+   },
+   "CI": {
+    "name": "Ivory Coast",
+    "continent": "AF",
+    "file": "places-CI.sqlite.gz",
+    "size": 610933,
+    "sha256": "74c7c714f74554e4fd5fde4af11dd5f9fa2530d24b67c3b76b2917eda458af89"
+   },
+   "CK": {
+    "name": "Cook Islands",
+    "continent": "OC",
+    "file": "places-CK.sqlite.gz",
+    "size": 23577,
+    "sha256": "c789815fc68296ee49d280a0fbcb9ef738439721b403ebf543764bc3a8577921"
+   },
+   "CL": {
+    "name": "Chile",
+    "continent": "SA",
+    "file": "places-CL.sqlite.gz",
+    "size": 793613,
+    "sha256": "83f4784cea17d7fd32e9bb60eddb3eb752daec79d03aac24cffa5eba752dab53"
+   },
+   "CM": {
+    "name": "Cameroon",
+    "continent": "AF",
+    "file": "places-CM.sqlite.gz",
+    "size": 635225,
+    "sha256": "e1e210114471c083874b148cbcbcdb9720c08694a5b90f23c42c4db7e3a2c311"
+   },
+   "CN": {
+    "name": "China",
+    "continent": "AS",
+    "file": "places-CN.sqlite.gz",
+    "size": 37032352,
+    "sha256": "33e97ead6f6ab2ce99fefb36627a2177fee5be15cbeb9b1e0f65507ae1652e21"
+   },
+   "CO": {
+    "name": "Colombia",
+    "continent": "SA",
+    "file": "places-CO.sqlite.gz",
+    "size": 1747389,
+    "sha256": "c27b8b5c18ba25bb6f0b4749aa6d0038373576a6a86b0864ede279791b2c93cd"
+   },
+   "CR": {
+    "name": "Costa Rica",
+    "continent": "NA",
+    "file": "places-CR.sqlite.gz",
+    "size": 302910,
+    "sha256": "babaf8fb2903b8e4b1f76698679b325c60879cf4cec49138e5221c6b2b50ed4a"
+   },
+   "CU": {
+    "name": "Cuba",
+    "continent": "NA",
+    "file": "places-CU.sqlite.gz",
+    "size": 848604,
+    "sha256": "80408aaa5519525399f23bd3f294420207ecf4c8ece6d09821917a5bc96ad874"
+   },
+   "CV": {
+    "name": "Cabo Verde",
+    "continent": "AF",
+    "file": "places-CV.sqlite.gz",
+    "size": 195778,
+    "sha256": "59e796bd0dc24026d34923b028a290a2faeefa09d90838abcd8f61f035154fc8"
+   },
+   "CW": {
+    "name": "Curacao",
+    "continent": "NA",
+    "file": "places-CW.sqlite.gz",
+    "size": 17041,
+    "sha256": "97e7bc6ca104a3b3c6c826346089e72675654d6031ec46fd946e879d10fc877d"
+   },
+   "CX": {
+    "name": "Christmas Island",
+    "continent": "OC",
+    "file": "places-CX.sqlite.gz",
+    "size": 10351,
+    "sha256": "f7995b3ed79f481182bcc60d233257a8d34e76b72f0f9d70f0030a0b71363a09"
+   },
+   "CY": {
+    "name": "Cyprus",
+    "continent": "EU",
+    "file": "places-CY.sqlite.gz",
+    "size": 112509,
+    "sha256": "e4cb1d203448c6dae74b28e2000186087693564dfd0ab8278025ed29459310f0"
+   },
+   "CZ": {
+    "name": "Czechia",
+    "continent": "EU",
+    "file": "places-CZ.sqlite.gz",
+    "size": 1284876,
+    "sha256": "a60714e5748849a3111f9abd8e166c98ef851853e5c2e15e73925e857a934ca6"
+   },
+   "DE": {
+    "name": "Germany",
+    "continent": "EU",
+    "file": "places-DE.sqlite.gz",
+    "size": 4734679,
+    "sha256": "49b883e8570e719c8de6a589b16a82731ec8418a05dc369438be132c4dfd278b"
+   },
+   "DJ": {
+    "name": "Djibouti",
+    "continent": "AF",
+    "file": "places-DJ.sqlite.gz",
+    "size": 55439,
+    "sha256": "da48f92e7dd45f6aa6364fe771101bf10985aae7e97934f4f021886226ed10c4"
+   },
+   "DK": {
+    "name": "Denmark",
+    "continent": "EU",
+    "file": "places-DK.sqlite.gz",
+    "size": 439105,
+    "sha256": "feef54a57c774340549a00d575cbdbd4ccd12285d6c6492064fb8c197a141ebe"
+   },
+   "DM": {
+    "name": "Dominica",
+    "continent": "NA",
+    "file": "places-DM.sqlite.gz",
+    "size": 25819,
+    "sha256": "a13b43c4c609ed69e9de286f0701c61aaeef61db9b4dc7cd239c7a280cd1accb"
+   },
+   "DO": {
+    "name": "Dominican Republic",
+    "continent": "NA",
+    "file": "places-DO.sqlite.gz",
+    "size": 439067,
+    "sha256": "f7761f6e2ac446c039c60c64074fcea088d0948d0e4ac537cd93afb227375a9f"
+   },
+   "DZ": {
+    "name": "Algeria",
+    "continent": "AF",
+    "file": "places-DZ.sqlite.gz",
+    "size": 1186047,
+    "sha256": "f35ee22d72264345270f956b6760041ed917aa4dac38cddf7a58b8d3f1920717"
+   },
+   "EC": {
+    "name": "Ecuador",
+    "continent": "SA",
+    "file": "places-EC.sqlite.gz",
+    "size": 546991,
+    "sha256": "1c284d017e92e5037e454cb2a3c82bc8a8eeba5f097dfc4d0cd0dcff5b696a19"
+   },
+   "EE": {
+    "name": "Estonia",
+    "continent": "EU",
+    "file": "places-EE.sqlite.gz",
+    "size": 340370,
+    "sha256": "d7502bbd50f1faf8daea75c22a6459c8c7036dcfe65652cb13ad1ab1a3a8f601"
+   },
+   "EG": {
+    "name": "Egypt",
+    "continent": "AF",
+    "file": "places-EG.sqlite.gz",
+    "size": 759517,
+    "sha256": "f9131866829c34993c3b197f92e8087fba3d6c21b1c49d6f81ab5612cd8ed767"
+   },
+   "EH": {
+    "name": "Western Sahara",
+    "continent": "AF",
+    "file": "places-EH.sqlite.gz",
+    "size": 24215,
+    "sha256": "cac0b00e3788c9705fed85a7ec036121c1e7dca843cfb17cdd6d8cd16a90310d"
+   },
+   "ER": {
+    "name": "Eritrea",
+    "continent": "AF",
+    "file": "places-ER.sqlite.gz",
+    "size": 173210,
+    "sha256": "150460287aec3a5d93bf6e1a5a68482a38aa24b2da6e8f2c6f13a5e7f5a823c9"
+   },
+   "ES": {
+    "name": "Spain",
+    "continent": "EU",
+    "file": "places-ES.sqlite.gz",
+    "size": 1988955,
+    "sha256": "30c3f43ebd398660f94074c1a4eb956f87926c1035f0f033f3cfcddfd06d2516"
+   },
+   "ET": {
+    "name": "Ethiopia",
+    "continent": "AF",
+    "file": "places-ET.sqlite.gz",
+    "size": 514483,
+    "sha256": "27a37f62c3e922c9e3b4c5085fcdc291557f8019cc4cdad522fd1cc081d77440"
+   },
+   "FI": {
+    "name": "Finland",
+    "continent": "EU",
+    "file": "places-FI.sqlite.gz",
+    "size": 7987062,
+    "sha256": "c2977920a5e08f7dc86a079e90b2ca64bded958dc3a66e10366d68ea4abe1ded"
+   },
+   "FJ": {
+    "name": "Fiji",
+    "continent": "OC",
+    "file": "places-FJ.sqlite.gz",
+    "size": 202235,
+    "sha256": "6aff64ffb78255c5bbf1618a29cb84bdb24561d711308f56ba33acf0e8c108ca"
+   },
+   "FK": {
+    "name": "Falkland Islands",
+    "continent": "SA",
+    "file": "places-FK.sqlite.gz",
+    "size": 40017,
+    "sha256": "d72a8bc836495cf67d57a0f66458c8778aca79b6063f4d0f6a5ac3e6593b1dc7"
+   },
+   "FM": {
+    "name": "Micronesia",
+    "continent": "OC",
+    "file": "places-FM.sqlite.gz",
+    "size": 81300,
+    "sha256": "3a53b700071819e3892e8ebc382281b7f1afe1d931249e01e9785a3329b1cf35"
+   },
+   "FO": {
+    "name": "Faroe Islands",
+    "continent": "EU",
+    "file": "places-FO.sqlite.gz",
+    "size": 55785,
+    "sha256": "9defa7fad35f0448e9a89512e25bef23d8faf100590685c25a201d15e0d289a0"
+   },
+   "FR": {
+    "name": "France",
+    "continent": "EU",
+    "file": "places-FR.sqlite.gz",
+    "size": 4609607,
+    "sha256": "e3987e199d95d1435537c4f55c1ae26f96d20a6e5bb5b15f956d0c37dc2b2d34"
+   },
+   "GA": {
+    "name": "Gabon",
+    "continent": "AF",
+    "file": "places-GA.sqlite.gz",
+    "size": 182034,
+    "sha256": "58c7fe8dd8527945de9836d71dd2b8eadab76c0583b17a77fe927be4e38a6d86"
+   },
+   "GB": {
+    "name": "United Kingdom",
+    "continent": "EU",
+    "file": "places-GB.sqlite.gz",
+    "size": 2289559,
+    "sha256": "e665d9deb3a2ccc7b5a36751cfee6252f9e3cef46c5f27baa4c5d38d17c758d6"
+   },
+   "GD": {
+    "name": "Grenada",
+    "continent": "NA",
+    "file": "places-GD.sqlite.gz",
+    "size": 38460,
+    "sha256": "ae8a745ff548e2119f2da949d49cd9b6b4a844995ae1937baf8a23ac63dfbde6"
+   },
+   "GE": {
+    "name": "Georgia",
+    "continent": "AS",
+    "file": "places-GE.sqlite.gz",
+    "size": 344969,
+    "sha256": "49705406101631a433050efd2ee15d11f3968e2b8d945d429682f870619a0650"
+   },
+   "GF": {
+    "name": "French Guiana",
+    "continent": "SA",
+    "file": "places-GF.sqlite.gz",
+    "size": 55534,
+    "sha256": "58d9bb6ce6cde7f19e6f69b8963efb1552d6960fbf4586913ec95ac06496b170"
+   },
+   "GG": {
+    "name": "Guernsey",
+    "continent": "EU",
+    "file": "places-GG.sqlite.gz",
+    "size": 36091,
+    "sha256": "f89f8543c217fc369b1db5d2668fd7277d5336aa0b06fa34e7ddbf2e48fde632"
+   },
+   "GH": {
+    "name": "Ghana",
+    "continent": "AF",
+    "file": "places-GH.sqlite.gz",
+    "size": 753476,
+    "sha256": "b10d2081fa8b29b396b7babc7024b22d2640c6d3d87a107ac49ef8e12bb131fa"
+   },
+   "GI": {
+    "name": "Gibraltar",
+    "continent": "EU",
+    "file": "places-GI.sqlite.gz",
+    "size": 15825,
+    "sha256": "9098ea8237a2b876f78565bcf33183e787be8489f4d53025158c09e52362194c"
+   },
+   "GL": {
+    "name": "Greenland",
+    "continent": "NA",
+    "file": "places-GL.sqlite.gz",
+    "size": 217682,
+    "sha256": "8b5b82b4f8763a2fcd80abb20be36fbba7663d8bca7ea26ebe32da4e78321d43"
+   },
+   "GM": {
+    "name": "Gambia",
+    "continent": "AF",
+    "file": "places-GM.sqlite.gz",
+    "size": 82687,
+    "sha256": "180821ce9284d5fb8ecc824d18bc06c348e5cc8d53e2b8d8b9d7f14fc301928e"
+   },
+   "GN": {
+    "name": "Guinea",
+    "continent": "AF",
+    "file": "places-GN.sqlite.gz",
+    "size": 280058,
+    "sha256": "829b27590e89fc9e32451bc2e7e466cc0252246c228d5f77f58575c743c40e40"
+   },
+   "GP": {
+    "name": "Guadeloupe",
+    "continent": "NA",
+    "file": "places-GP.sqlite.gz",
+    "size": 103454,
+    "sha256": "f5beaa837b2f9913abecb5fbc9d42e47c84b0c6fa0a5572a2d5348cb92e7929a"
+   },
+   "GQ": {
+    "name": "Equatorial Guinea",
+    "continent": "AF",
+    "file": "places-GQ.sqlite.gz",
+    "size": 106710,
+    "sha256": "f31e9dd216fc396d19d8ff78c62cc1e82691c530ce42261680dbc5a3e6157a27"
+   },
+   "GR": {
+    "name": "Greece",
+    "continent": "EU",
+    "file": "places-GR.sqlite.gz",
+    "size": 1065960,
+    "sha256": "ee94c361a7910fee326c72ed1fdae61e947991c7b35ec9de6f46b54ca0e5e499"
+   },
+   "GS": {
+    "name": "South Georgia and the South Sandwich Islands",
+    "continent": "AN",
+    "file": "places-GS.sqlite.gz",
+    "size": 33532,
+    "sha256": "90b4f32299e841030d7526715fa3e7a48340705d6d5cb511d7b695848e0bd8d6"
+   },
+   "GT": {
+    "name": "Guatemala",
+    "continent": "NA",
+    "file": "places-GT.sqlite.gz",
+    "size": 860491,
+    "sha256": "9a7f8710356b269435cba36a3118fe0757bba0dd2f78b84cf1a08eb8250b6315"
+   },
+   "GU": {
+    "name": "Guam",
+    "continent": "OC",
+    "file": "places-GU.sqlite.gz",
+    "size": 34433,
+    "sha256": "d8943ec0ab04bd6d1bc569c1f9f1a15735b95727f6dc5e82730d4bb089451d2c"
+   },
+   "GW": {
+    "name": "Guinea-Bissau",
+    "continent": "AF",
+    "file": "places-GW.sqlite.gz",
+    "size": 135352,
+    "sha256": "d441b934fbd75abfbc6f5ffe5cca664f4bccb20cf6b2eccad8b07931f563f57d"
+   },
+   "GY": {
+    "name": "Guyana",
+    "continent": "SA",
+    "file": "places-GY.sqlite.gz",
+    "size": 73900,
+    "sha256": "49d5c3f5032bcb5e84a64ac76d83451ba4c056e4ab38ae72c40baebb21926e10"
+   },
+   "HK": {
+    "name": "Hong Kong",
+    "continent": "AS",
+    "file": "places-HK.sqlite.gz",
+    "size": 97833,
+    "sha256": "ecadb6d52c273a28cd3c1de9ac852ebe8a62cb28cd3f27be8bc2244fac15e9eb"
+   },
+   "HM": {
+    "name": "Heard Island and McDonald Islands",
+    "continent": "AN",
+    "file": "places-HM.sqlite.gz",
+    "size": 12051,
+    "sha256": "bfbbcc05929570e39a07b30f06252f9389769bd019c9e4a0913df30ac9236b53"
+   },
+   "HN": {
+    "name": "Honduras",
+    "continent": "NA",
+    "file": "places-HN.sqlite.gz",
+    "size": 510759,
+    "sha256": "6dc5890d258883f5c70157a8b7fa1a3ce7deaf9c2358e19f0d6c197fcb659cd3"
+   },
+   "HR": {
+    "name": "Croatia",
+    "continent": "EU",
+    "file": "places-HR.sqlite.gz",
+    "size": 690060,
+    "sha256": "ec18e4d2cc7f767c5f517e95eac36f92ce7e2ae2475746337d0c798989872eda"
+   },
+   "HT": {
+    "name": "Haiti",
+    "continent": "NA",
+    "file": "places-HT.sqlite.gz",
+    "size": 456331,
+    "sha256": "1039b0ef40c5d1c345754987c452fb83f81d0b79716c28dabc176c1bccb216e7"
+   },
+   "HU": {
+    "name": "Hungary",
+    "continent": "EU",
+    "file": "places-HU.sqlite.gz",
+    "size": 429270,
+    "sha256": "5637f053ac18bb75a09d944ec928c03d6b585853b9e7560859afe27e99497e46"
+   },
+   "ID": {
+    "name": "Indonesia",
+    "continent": "AS",
+    "file": "places-ID.sqlite.gz",
+    "size": 10986653,
+    "sha256": "b8b40ad78a903779e614fae8dc2248ca24eaf13768fc29dde2e919c7b069ea04"
+   },
+   "IE": {
+    "name": "Ireland",
+    "continent": "EU",
+    "file": "places-IE.sqlite.gz",
+    "size": 757564,
+    "sha256": "7e2911c6d6f92018e4dee19fb09d3125ced9ef1bd208e29be34b898c25708705"
+   },
+   "IL": {
+    "name": "Israel",
+    "continent": "AS",
+    "file": "places-IL.sqlite.gz",
+    "size": 235072,
+    "sha256": "b37c6b4aeb2fb23837b07bb59bb527ffb82171e1576214595a1363314173c251"
+   },
+   "IM": {
+    "name": "Isle of Man",
+    "continent": "EU",
+    "file": "places-IM.sqlite.gz",
+    "size": 16495,
+    "sha256": "37376c5154b3985f4bb8cba007086688ea79e5e926626453f6f7e48feaf0cd77"
+   },
+   "IN": {
+    "name": "India",
+    "continent": "AS",
+    "file": "places-IN.sqlite.gz",
+    "size": 24049896,
+    "sha256": "140a54107ce716b89d7388ce1a4f3ed6139c5d810926219c01a7e76693f050b6"
+   },
+   "IO": {
+    "name": "British Indian Ocean Territory",
+    "continent": "AS",
+    "file": "places-IO.sqlite.gz",
+    "size": 16067,
+    "sha256": "0bf5b23a8afbeef41df3e8c01c84e64ba54c59796c42a942714b66a8937f0d3e"
+   },
+   "IQ": {
+    "name": "Iraq",
+    "continent": "AS",
+    "file": "places-IQ.sqlite.gz",
+    "size": 1149503,
+    "sha256": "d0ae0d8f75951ba9e4a5da94bb896e8287604eed0ff3a0b71d1ea5f0a7c9248d"
+   },
+   "IR": {
+    "name": "Iran",
+    "continent": "AS",
+    "file": "places-IR.sqlite.gz",
+    "size": 6778452,
+    "sha256": "a661086a9c84578f6a228875319a2221cba7be19ba6ab6502bea69463722cc3b"
+   },
+   "IS": {
+    "name": "Iceland",
+    "continent": "EU",
+    "file": "places-IS.sqlite.gz",
+    "size": 222007,
+    "sha256": "836228a40570cd38458784b18f1c59c9c25911bcd16fbf316795f3a79cf5b17a"
+   },
+   "IT": {
+    "name": "Italy",
+    "continent": "EU",
+    "file": "places-IT.sqlite.gz",
+    "size": 3969229,
+    "sha256": "a01c6b2c06ba1a8a8a58468e1880da3acf31fcaa7e4541e946921b22ffd50c9f"
+   },
+   "JE": {
+    "name": "Jersey",
+    "continent": "EU",
+    "file": "places-JE.sqlite.gz",
+    "size": 22093,
+    "sha256": "c599b2ae549904eddd041805ee13d9f4e7665bc8fa3e92d681daae864e9892bb"
+   },
+   "JM": {
+    "name": "Jamaica",
+    "continent": "NA",
+    "file": "places-JM.sqlite.gz",
+    "size": 199897,
+    "sha256": "d26bc5088515d6c4ada798673fb0e23dc101592370d7f4fb7dd26f6c1538c809"
+   },
+   "JO": {
+    "name": "Jordan",
+    "continent": "AS",
+    "file": "places-JO.sqlite.gz",
+    "size": 155471,
+    "sha256": "09729b6aa578436e44092188a2d4817498622ca51f982815aa358f266cd9ea7d"
+   },
+   "JP": {
+    "name": "Japan",
+    "continent": "AS",
+    "file": "places-JP.sqlite.gz",
+    "size": 2686401,
+    "sha256": "62f77f4433e5743783528a3a1c77c23d1759ebc7873146825b9b263beae5b16c"
+   },
+   "KE": {
+    "name": "Kenya",
+    "continent": "AF",
+    "file": "places-KE.sqlite.gz",
+    "size": 407568,
+    "sha256": "0a825b6e0ff5d554655351022144cb4abdfd42a649a08693cc8e74a8ff323639"
+   },
+   "KG": {
+    "name": "Kyrgyzstan",
+    "continent": "AS",
+    "file": "places-KG.sqlite.gz",
+    "size": 240585,
+    "sha256": "b9b56a2afc7f8466fd72379753049cff714532f9b31e2baa6d553ed9ea2a1bf1"
+   },
+   "KH": {
+    "name": "Cambodia",
+    "continent": "AS",
+    "file": "places-KH.sqlite.gz",
+    "size": 610223,
+    "sha256": "a80dea6b8be10556bfd06ed9ca3bb514937a069b229ea3a7603d4ce2f22562d0"
+   },
+   "KI": {
+    "name": "Kiribati",
+    "continent": "OC",
+    "file": "places-KI.sqlite.gz",
+    "size": 34841,
+    "sha256": "3cc3ff2d7748f6d1be401f5e79d072aec1165bfc6bdc3a481a90a949e14c4a87"
+   },
+   "KM": {
+    "name": "Comoros",
+    "continent": "AF",
+    "file": "places-KM.sqlite.gz",
+    "size": 41186,
+    "sha256": "b42c1887f1e3ce07e51f29dfffa1292731d78b558f81c1a5d5d979f40f2e56cf"
+   },
+   "KN": {
+    "name": "Saint Kitts and Nevis",
+    "continent": "NA",
+    "file": "places-KN.sqlite.gz",
+    "size": 22485,
+    "sha256": "78ac0f882afd77577b2f2b1824e7eba7bcfee117c16925fb23f0b522195ffc77"
+   },
+   "KP": {
+    "name": "North Korea",
+    "continent": "AS",
+    "file": "places-KP.sqlite.gz",
+    "size": 1874599,
+    "sha256": "c99842bd2fca66c41c8bfa1df925bfa0308129ccf52031496bc3f2247e934765"
+   },
+   "KR": {
+    "name": "South Korea",
+    "continent": "AS",
+    "file": "places-KR.sqlite.gz",
+    "size": 4067313,
+    "sha256": "8f599dad69c3161484412e6dbcd60218bc269f778d078355263a36c8776a250d"
+   },
+   "KW": {
+    "name": "Kuwait",
+    "continent": "AS",
+    "file": "places-KW.sqlite.gz",
+    "size": 22330,
+    "sha256": "d672a1a90609aa460a540372b832f4ad554e83c2b11063d5e000de9662ca8325"
+   },
+   "KY": {
+    "name": "Cayman Islands",
+    "continent": "NA",
+    "file": "places-KY.sqlite.gz",
+    "size": 22140,
+    "sha256": "999e0a8ff7a036216ce5aa08a2ba8f3dc0f4a0834ee83b5d5e77a3ec1c468186"
+   },
+   "KZ": {
+    "name": "Kazakhstan",
+    "continent": "AS",
+    "file": "places-KZ.sqlite.gz",
+    "size": 1073651,
+    "sha256": "4868637575c530c16f9a92b3845aa60f63ec621cba8e378c4e07271e77c22174"
+   },
+   "LA": {
+    "name": "Laos",
+    "continent": "AS",
+    "file": "places-LA.sqlite.gz",
+    "size": 719852,
+    "sha256": "9a87357f541bf0d5a2cbe379f26370f2e0b07eec7e3d3d0ce27bf7692ba6c871"
+   },
+   "LB": {
+    "name": "Lebanon",
+    "continent": "AS",
+    "file": "places-LB.sqlite.gz",
+    "size": 369354,
+    "sha256": "99145a9e604cb8440869e5878f0f293d357094e3d9c8f7d6423e9ed5ab1dedbd"
+   },
+   "LC": {
+    "name": "Saint Lucia",
+    "continent": "NA",
+    "file": "places-LC.sqlite.gz",
+    "size": 47238,
+    "sha256": "b1e01f30af5acc8778950cc91cd1e3bf85546e9b699c0942cff00e5fcb04a59b"
+   },
+   "LI": {
+    "name": "Liechtenstein",
+    "continent": "EU",
+    "file": "places-LI.sqlite.gz",
+    "size": 30633,
+    "sha256": "09d6f387f61433daa40f1b64466419e020cec7e527e09a865dcac7da8a4d03d2"
+   },
+   "LK": {
+    "name": "Sri Lanka",
+    "continent": "AS",
+    "file": "places-LK.sqlite.gz",
+    "size": 1084587,
+    "sha256": "1064df88a8c48470a3eef71e921ed3691a3ce3de1f5efa8aae89e71b833c4d4d"
+   },
+   "LR": {
+    "name": "Liberia",
+    "continent": "AF",
+    "file": "places-LR.sqlite.gz",
+    "size": 295813,
+    "sha256": "f5528b09dd88911568251491115915cf367d784555fa8658de06db3764692786"
+   },
+   "LS": {
+    "name": "Lesotho",
+    "continent": "AF",
+    "file": "places-LS.sqlite.gz",
+    "size": 45862,
+    "sha256": "a711e9fb87f51ac9bffaff761bbeb4ae9bd4e359a483840229a536f2f46aae6d"
+   },
+   "LT": {
+    "name": "Lithuania",
+    "continent": "EU",
+    "file": "places-LT.sqlite.gz",
+    "size": 1258900,
+    "sha256": "4ce208df044b5daf358a22833e2f8c5a405406b69a770ccad4332f1ed7b41b07"
+   },
+   "LU": {
+    "name": "Luxembourg",
+    "continent": "EU",
+    "file": "places-LU.sqlite.gz",
+    "size": 52616,
+    "sha256": "ee6e1ff2314ce66adc7285b19c8641490576972b1572191246e30fd18dc94f09"
+   },
+   "LV": {
+    "name": "Latvia",
+    "continent": "EU",
+    "file": "places-LV.sqlite.gz",
+    "size": 632392,
+    "sha256": "2dd37b1c6903b2598cebff261420b52b844dafc175b78061eff12b0cc36ab765"
+   },
+   "LY": {
+    "name": "Libya",
+    "continent": "AF",
+    "file": "places-LY.sqlite.gz",
+    "size": 256748,
+    "sha256": "1a6b5c995808ec6990bd2859080ab7b9af6ccdf70c74fc1edd58d536086a29cd"
+   },
+   "MA": {
+    "name": "Morocco",
+    "continent": "AF",
+    "file": "places-MA.sqlite.gz",
+    "size": 3364051,
+    "sha256": "731bd3d7dc593ec658485473efa3d2a0743bacba654a41261e95afdc9162cc55"
+   },
+   "MC": {
+    "name": "Monaco",
+    "continent": "EU",
+    "file": "places-MC.sqlite.gz",
+    "size": 10921,
+    "sha256": "0a9cef38ff6e9b850f892ce2f99847ad8a5f7bceffb6379e465c51c65c1652cf"
+   },
+   "MD": {
+    "name": "Moldova",
+    "continent": "EU",
+    "file": "places-MD.sqlite.gz",
+    "size": 102110,
+    "sha256": "d6b2d6820897f259e3c0d01d7290d457ad08097a82832dd7274998961c8c6df0"
+   },
+   "ME": {
+    "name": "Montenegro",
+    "continent": "EU",
+    "file": "places-ME.sqlite.gz",
+    "size": 310526,
+    "sha256": "a82072ced3010e85b6fc3e6ff8dbbc66cd8866fe3069aa3d097fb49f255fc1f2"
+   },
+   "MF": {
+    "name": "Saint Martin",
+    "continent": "NA",
+    "file": "places-MF.sqlite.gz",
+    "size": 18007,
+    "sha256": "95c298f5b6375f7e450be77de9deec0ba9ed267742363df08fcc9f6e9cf2eb34"
+   },
+   "MG": {
+    "name": "Madagascar",
+    "continent": "AF",
+    "file": "places-MG.sqlite.gz",
+    "size": 836862,
+    "sha256": "78dfe7e67e3a5d0be7e985637e883512d91ec77a887df18b39396aafb4d86f0b"
+   },
+   "MH": {
+    "name": "Marshall Islands",
+    "continent": "OC",
+    "file": "places-MH.sqlite.gz",
+    "size": 58150,
+    "sha256": "8f8f2bc4bb52e6ee0903175326b30d581494012d8ef3ec7cba0eee0e790b9ecd"
+   },
+   "MK": {
+    "name": "North Macedonia",
+    "continent": "EU",
+    "file": "places-MK.sqlite.gz",
+    "size": 371609,
+    "sha256": "7cbefe02f7c1e3aa21ccb1275d0a641d3b7abb5e85bf3d78d0058823e48b493b"
+   },
+   "ML": {
+    "name": "Mali",
+    "continent": "AF",
+    "file": "places-ML.sqlite.gz",
+    "size": 797704,
+    "sha256": "42133e72a7a35fbdc64159e706926629ba241a5c971745c8a61cb1198ea182be"
+   },
+   "MM": {
+    "name": "Myanmar",
+    "continent": "AS",
+    "file": "places-MM.sqlite.gz",
+    "size": 2599984,
+    "sha256": "51f0bceda948b5ddbdac900b969f8f336ace832c59b6e19ee1dacb13dc3d26f6"
+   },
+   "MN": {
+    "name": "Mongolia",
+    "continent": "AS",
+    "file": "places-MN.sqlite.gz",
+    "size": 163587,
+    "sha256": "636d4a2e8420eeeb90717a6d6992613fdcf09192a5bdb262a3bc776f88ce45f5"
+   },
+   "MO": {
+    "name": "Macao",
+    "continent": "AS",
+    "file": "places-MO.sqlite.gz",
+    "size": 12428,
+    "sha256": "29267732c2d183fbfc440b44959fbca14b3484a4bff26dc466cd2a410e5b9962"
+   },
+   "MP": {
+    "name": "Northern Mariana Islands",
+    "continent": "OC",
+    "file": "places-MP.sqlite.gz",
+    "size": 35404,
+    "sha256": "0aeaa723bf71a80584012cb9d1956d00ecb6e387ef89ee9ae8fc62cd028e05d1"
+   },
+   "MQ": {
+    "name": "Martinique",
+    "continent": "NA",
+    "file": "places-MQ.sqlite.gz",
+    "size": 83008,
+    "sha256": "9c62ccef3f6ab8509144ba18768f636f75600f523349c87f56cb2f92104e0647"
+   },
+   "MR": {
+    "name": "Mauritania",
+    "continent": "AF",
+    "file": "places-MR.sqlite.gz",
+    "size": 441311,
+    "sha256": "fc237135bcc5b053bf451167a08de0010273f5aa60997c093b0562a514c758e6"
+   },
+   "MS": {
+    "name": "Montserrat",
+    "continent": "NA",
+    "file": "places-MS.sqlite.gz",
+    "size": 19005,
+    "sha256": "72270dacdb75b6d1ad3c4fba8eaebdd5197da61c56c55eb67185b7f929c0b4b8"
+   },
+   "MT": {
+    "name": "Malta",
+    "continent": "EU",
+    "file": "places-MT.sqlite.gz",
+    "size": 34872,
+    "sha256": "b32b8dcf3c73a72dcb46faba0dd506ee139d0180c8fa3923b227242e3b321d68"
+   },
+   "MU": {
+    "name": "Mauritius",
+    "continent": "AF",
+    "file": "places-MU.sqlite.gz",
+    "size": 52291,
+    "sha256": "617a80661de139573eaea19eccf5b048c93077e12c8a308b02b6561537fc2cc9"
+   },
+   "MV": {
+    "name": "Maldives",
+    "continent": "AS",
+    "file": "places-MV.sqlite.gz",
+    "size": 81500,
+    "sha256": "ccf0f181d71c24e0ed2f93655afdb5c64efef8206bd859d417090efc279fcf89"
+   },
+   "MW": {
+    "name": "Malawi",
+    "continent": "AF",
+    "file": "places-MW.sqlite.gz",
+    "size": 391428,
+    "sha256": "a7faab20f0a1f1845e2b4c5accf5c02c67d9678844189696b018df87fa777276"
+   },
+   "MX": {
+    "name": "Mexico",
+    "continent": "NA",
+    "file": "places-MX.sqlite.gz",
+    "size": 14559629,
+    "sha256": "452e16706cbd69700d5c2daa5012c5ff2f9993434f253bd186e244b1ecfcc7a0"
+   },
+   "MY": {
+    "name": "Malaysia",
+    "continent": "AS",
+    "file": "places-MY.sqlite.gz",
+    "size": 1127470,
+    "sha256": "6e379008f027fb765babebd556fc72f0222612d578f7c54a0b91c043d4b2b6ef"
+   },
+   "MZ": {
+    "name": "Mozambique",
+    "continent": "AF",
+    "file": "places-MZ.sqlite.gz",
+    "size": 1213658,
+    "sha256": "782a77a72f2be161a69e450c1e0f74adaa4e6e30ec1db545ff7a48ee309f6257"
+   },
+   "NA": {
+    "name": "Namibia",
+    "continent": "AF",
+    "file": "places-NA.sqlite.gz",
+    "size": 198291,
+    "sha256": "2eda727f5e27952e2633a4a008baa176b2bf16786b81f18b5f3366f97e6c23b6"
+   },
+   "NC": {
+    "name": "New Caledonia",
+    "continent": "OC",
+    "file": "places-NC.sqlite.gz",
+    "size": 102778,
+    "sha256": "e69cbb999bd69dda05b71ff6a4ac5c581e82783cbc24b56c0db63290f7e9cf4d"
+   },
+   "NE": {
+    "name": "Niger",
+    "continent": "AF",
+    "file": "places-NE.sqlite.gz",
+    "size": 645385,
+    "sha256": "7837c3c37f0cd5935cc1efe0b3b6dd9425078c066b75362ef22b998a0cc0f3c4"
+   },
+   "NF": {
+    "name": "Norfolk Island",
+    "continent": "OC",
+    "file": "places-NF.sqlite.gz",
+    "size": 10974,
+    "sha256": "e785d2701c1b67278051dd5b07e783f35235b7acaea178de664d6d14dc09223f"
+   },
+   "NG": {
+    "name": "Nigeria",
+    "continent": "AF",
+    "file": "places-NG.sqlite.gz",
+    "size": 2840312,
+    "sha256": "c0c80108edf0b2ac2daa167c652bf8b595edec5a13065272323ca4bc596d94af"
+   },
+   "NI": {
+    "name": "Nicaragua",
+    "continent": "NA",
+    "file": "places-NI.sqlite.gz",
+    "size": 168168,
+    "sha256": "7a96420f5655d6c3b23951b49cfa17e169a92f5702276ad3572feceac2311103"
+   },
+   "NL": {
+    "name": "The Netherlands",
+    "continent": "EU",
+    "file": "places-NL.sqlite.gz",
+    "size": 469018,
+    "sha256": "3043d2791b6ead719295b5da36a42cb39a247f38158ee878210f13f3e56669e0"
+   },
+   "NO": {
+    "name": "Norway",
+    "continent": "EU",
+    "file": "places-NO.sqlite.gz",
+    "size": 5253842,
+    "sha256": "9c3551e2e197889594bfe11fd7c872543f56f210733c3394cde8dbd0a7d878cf"
+   },
+   "NP": {
+    "name": "Nepal",
+    "continent": "AS",
+    "file": "places-NP.sqlite.gz",
+    "size": 3849670,
+    "sha256": "ce573b36cc6767685058cefb51804051851025e6aeec896e63bfe7c7435e2521"
+   },
+   "NR": {
+    "name": "Nauru",
+    "continent": "OC",
+    "file": "places-NR.sqlite.gz",
+    "size": 11441,
+    "sha256": "a3b295c85d0d4bd201914383d1c75e449a69bcc4afb9f90ad8d3003a0a6484ba"
+   },
+   "NU": {
+    "name": "Niue",
+    "continent": "OC",
+    "file": "places-NU.sqlite.gz",
+    "size": 17574,
+    "sha256": "ce226bdeefc4e80661a189cab0359f1faedf73abd077c4f0f318bee9a7067497"
+   },
+   "NZ": {
+    "name": "New Zealand",
+    "continent": "OC",
+    "file": "places-NZ.sqlite.gz",
+    "size": 633162,
+    "sha256": "7e8d3197d12878f4e9d804b8349289e80485fe5a68195fdddf46b024fb7aad74"
+   },
+   "OM": {
+    "name": "Oman",
+    "continent": "AS",
+    "file": "places-OM.sqlite.gz",
+    "size": 325903,
+    "sha256": "37acdc24517f864348a2a7137258fa40d25157ee3dbd5da95fc4756cb188544f"
+   },
+   "PA": {
+    "name": "Panama",
+    "continent": "NA",
+    "file": "places-PA.sqlite.gz",
+    "size": 691587,
+    "sha256": "6a0a21a3c29e5a8cc098433d29f93ccb2c7f64b1700d4919718ce603a89d3e46"
+   },
+   "PE": {
+    "name": "Peru",
+    "continent": "SA",
+    "file": "places-PE.sqlite.gz",
+    "size": 3274463,
+    "sha256": "df2adb074702850b6398ea5bdb602d646531d5f28cd29addc567ff3fe245b695"
+   },
+   "PF": {
+    "name": "French Polynesia",
+    "continent": "OC",
+    "file": "places-PF.sqlite.gz",
+    "size": 104829,
+    "sha256": "f433f791e14d897e858820cf3090d55c8c3460a64695b3f74070f6f25d0c15bd"
+   },
+   "PG": {
+    "name": "Papua New Guinea",
+    "continent": "OC",
+    "file": "places-PG.sqlite.gz",
+    "size": 653258,
+    "sha256": "1516a97f085bec809cca34e08a062bf587184de3bfb99e1f148cfe4dc380898c"
+   },
+   "PH": {
+    "name": "Philippines",
+    "continent": "AS",
+    "file": "places-PH.sqlite.gz",
+    "size": 2243470,
+    "sha256": "c51e72c488974da029d2e6426168c3ea0fdbb9a5da4dc0339f5bd578292ce81c"
+   },
+   "PK": {
+    "name": "Pakistan",
+    "continent": "AS",
+    "file": "places-PK.sqlite.gz",
+    "size": 7303341,
+    "sha256": "d73fea6bc0b7fdb71b7198bbbf167cf8537d9972354954dd0b996b43dd0816f4"
+   },
+   "PL": {
+    "name": "Poland",
+    "continent": "EU",
+    "file": "places-PL.sqlite.gz",
+    "size": 2275615,
+    "sha256": "d65cc11f9c89e3525c6fd8682bb95f47a73886691731bf32bee0f11c625de93f"
+   },
+   "PM": {
+    "name": "Saint Pierre and Miquelon",
+    "continent": "NA",
+    "file": "places-PM.sqlite.gz",
+    "size": 18565,
+    "sha256": "2d609d8c767c5e2439a2fc4e20e0d9864da9fc6e9fe3ce962824f150516997b6"
+   },
+   "PN": {
+    "name": "Pitcairn",
+    "continent": "OC",
+    "file": "places-PN.sqlite.gz",
+    "size": 10481,
+    "sha256": "7c8fb6a3b28aa8f5c2dc0330957d1388cf28faa476b96713a9e89df423dd417c"
+   },
+   "PR": {
+    "name": "Puerto Rico",
+    "continent": "NA",
+    "file": "places-PR.sqlite.gz",
+    "size": 214202,
+    "sha256": "577c3c2d010846cafbbbb500a12cd16705450f66872465871dc7ad85025080bf"
+   },
+   "PS": {
+    "name": "Palestinian Territory",
+    "continent": "AS",
+    "file": "places-PS.sqlite.gz",
+    "size": 131242,
+    "sha256": "b63edb582b1338572626f10ff2def6c6e6d2890a7613512090f4de2edf577a6e"
+   },
+   "PT": {
+    "name": "Portugal",
+    "continent": "EU",
+    "file": "places-PT.sqlite.gz",
+    "size": 997325,
+    "sha256": "2acce3d3bd9d61db0182d1da950ea97ea4abb90f5fa326615f8502f9a847999e"
+   },
+   "PW": {
+    "name": "Palau",
+    "continent": "OC",
+    "file": "places-PW.sqlite.gz",
+    "size": 34208,
+    "sha256": "03a2ceded9093fb627a7371616e38c16789c4c51c7635ccad9fb06a1d71a4b15"
+   },
+   "PY": {
+    "name": "Paraguay",
+    "continent": "SA",
+    "file": "places-PY.sqlite.gz",
+    "size": 250557,
+    "sha256": "fb5f3ce812cb5d6b2916cccdac42e20dc1b33b04690c8a1502d21e9e6e44e5da"
+   },
+   "QA": {
+    "name": "Qatar",
+    "continent": "AS",
+    "file": "places-QA.sqlite.gz",
+    "size": 33378,
+    "sha256": "504088acbd5eed1b1728e41dd84f741543962da751a89718f91928fc4c765c69"
+   },
+   "RE": {
+    "name": "Reunion",
+    "continent": "AF",
+    "file": "places-RE.sqlite.gz",
+    "size": 74266,
+    "sha256": "0520a4f25294b77624e2de641c8eb1b2813343045e3bbffe5acabca3683f8512"
+   },
+   "RO": {
+    "name": "Romania",
+    "continent": "EU",
+    "file": "places-RO.sqlite.gz",
+    "size": 1120238,
+    "sha256": "4084fd5c5364429292161511697434e41821c04fdd83159805d523e33c41ad57"
+   },
+   "RS": {
+    "name": "Serbia",
+    "continent": "EU",
+    "file": "places-RS.sqlite.gz",
+    "size": 607703,
+    "sha256": "f83d02411dc7657918444c0ba9c513fcd1f1f3b3cb582281d19f12f3524fd1ff"
+   },
+   "RU": {
+    "name": "Russia",
+    "continent": "EU",
+    "file": "places-RU.sqlite.gz",
+    "size": 10758166,
+    "sha256": "d618cc514c3c086df634508ec7ff8d06a87b58ea3662be4dcde5eea2645c6b50"
+   },
+   "RW": {
+    "name": "Rwanda",
+    "continent": "AF",
+    "file": "places-RW.sqlite.gz",
+    "size": 434440,
+    "sha256": "d2f1e2e776f2be52d49876f440ff14fd6092e665d8f3bfcd991379052725c586"
+   },
+   "SA": {
+    "name": "Saudi Arabia",
+    "continent": "AS",
+    "file": "places-SA.sqlite.gz",
+    "size": 393749,
+    "sha256": "d91e770958a719f0b44d76e88d0c4043555478e6143a5f3d5e03cd64ba56fc0c"
+   },
+   "SB": {
+    "name": "Solomon Islands",
+    "continent": "OC",
+    "file": "places-SB.sqlite.gz",
+    "size": 216469,
+    "sha256": "9f6fe26216db932834d592302d4a0457a27d046620f3067c1b6225a0a7b850a6"
+   },
+   "SC": {
+    "name": "Seychelles",
+    "continent": "AF",
+    "file": "places-SC.sqlite.gz",
+    "size": 24692,
+    "sha256": "e9bb96da5686b2694e1d9d65578da04209185f84319e58086cf97cc9a51bc11e"
+   },
+   "SD": {
+    "name": "Sudan",
+    "continent": "AF",
+    "file": "places-SD.sqlite.gz",
+    "size": 479769,
+    "sha256": "0506ed24183abb49a1327bc132e8939b1bfa525b95529f1033a02f926a194192"
+   },
+   "SE": {
+    "name": "Sweden",
+    "continent": "EU",
+    "file": "places-SE.sqlite.gz",
+    "size": 1910174,
+    "sha256": "a0a0134f88f79b3ee954d2d5b3d0f3dbae06b11750b9e486f3bfee9fe5bc7862"
+   },
+   "SG": {
+    "name": "Singapore",
+    "continent": "AS",
+    "file": "places-SG.sqlite.gz",
+    "size": 31752,
+    "sha256": "745a8a66273d0e30d6919b4918f88fb9f8a072c5566533f4cc8c8c3020be915f"
+   },
+   "SH": {
+    "name": "Saint Helena",
+    "continent": "AF",
+    "file": "places-SH.sqlite.gz",
+    "size": 25501,
+    "sha256": "4fb4d21ebb4fa71d05bc783cff6324ba1e955a23d2084d407f47c1e109d6357a"
+   },
+   "SI": {
+    "name": "Slovenia",
+    "continent": "EU",
+    "file": "places-SI.sqlite.gz",
+    "size": 355854,
+    "sha256": "568beef31ca0b04ee3bb62f8d13ac27aba80b48ddd53ec7c0af7db1725c802c2"
+   },
+   "SJ": {
+    "name": "Svalbard and Jan Mayen",
+    "continent": "EU",
+    "file": "places-SJ.sqlite.gz",
+    "size": 146790,
+    "sha256": "ef197d60142421a4fb70a4daff800be4c561a9b85ec2256ac5d8ec36ef1e6ce7"
+   },
+   "SK": {
+    "name": "Slovakia",
+    "continent": "EU",
+    "file": "places-SK.sqlite.gz",
+    "size": 328971,
+    "sha256": "e274f5260371e89b003dbfe74582754f5c97621550292d5cceb7d83dcd40d42d"
+   },
+   "SL": {
+    "name": "Sierra Leone",
+    "continent": "AF",
+    "file": "places-SL.sqlite.gz",
+    "size": 646930,
+    "sha256": "3a53ba30d11458c8619da5e6511e618cede6e68bfcd92557d9d0d74e6418f1fd"
+   },
+   "SM": {
+    "name": "San Marino",
+    "continent": "EU",
+    "file": "places-SM.sqlite.gz",
+    "size": 11670,
+    "sha256": "a025000d0f1b831552d259211317fd422f016304a69079ccc2a01432b5197c4f"
+   },
+   "SN": {
+    "name": "Senegal",
+    "continent": "AF",
+    "file": "places-SN.sqlite.gz",
+    "size": 518617,
+    "sha256": "7b59efc60571ecbd575040f6d2deb8420fd319c6bf23d520d2a1dbdfdc3907d7"
+   },
+   "SO": {
+    "name": "Somalia",
+    "continent": "AF",
+    "file": "places-SO.sqlite.gz",
+    "size": 293618,
+    "sha256": "bf28da87f45e1c7e93818a8ab4f1c21e85feea7d8551c8481bb6ada5e18aa93b"
+   },
+   "SR": {
+    "name": "Suriname",
+    "continent": "SA",
+    "file": "places-SR.sqlite.gz",
+    "size": 46506,
+    "sha256": "9766c62713a87cbc32a621ffd0fa3c08cd2c30738d903f190af2a6132920058a"
+   },
+   "SS": {
+    "name": "South Sudan",
+    "continent": "AF",
+    "file": "places-SS.sqlite.gz",
+    "size": 287104,
+    "sha256": "a171fe8c73f185a6ff3c324df0d612a7a286668b841874febbe57d7d9b4ffe06"
+   },
+   "ST": {
+    "name": "Sao Tome and Principe",
+    "continent": "AF",
+    "file": "places-ST.sqlite.gz",
+    "size": 55590,
+    "sha256": "9f168356344bcb336e66b5055054e1f41a5770da6e7242e0601d73c0c5f05805"
+   },
+   "SV": {
+    "name": "El Salvador",
+    "continent": "NA",
+    "file": "places-SV.sqlite.gz",
+    "size": 151975,
+    "sha256": "8ee7bb5875bf763f499a1b705fb7891c2cc64da361efc584a272ab4825aa7406"
+   },
+   "SX": {
+    "name": "Sint Maarten",
+    "continent": "NA",
+    "file": "places-SX.sqlite.gz",
+    "size": 16093,
+    "sha256": "60483952f9a84f559cceba2803994ddae748cd2a40068844e53c24024244a351"
+   },
+   "SY": {
+    "name": "Syria",
+    "continent": "AS",
+    "file": "places-SY.sqlite.gz",
+    "size": 798595,
+    "sha256": "c1899487e6e7ef42e5fa1c76559c65a675b9ed6faddb1b143cdba8eeb247d111"
+   },
+   "SZ": {
+    "name": "Eswatini",
+    "continent": "AF",
+    "file": "places-SZ.sqlite.gz",
+    "size": 64840,
+    "sha256": "51d593f696aa670ebefb5a60e2272540673d605473dcde3df74f413bd738e3f4"
+   },
+   "TC": {
+    "name": "Turks and Caicos Islands",
+    "continent": "NA",
+    "file": "places-TC.sqlite.gz",
+    "size": 21207,
+    "sha256": "21bca72b4df4607f7cb540eb11be721df0e8751fb1951cb6c6dd9a065b7a9b23"
+   },
+   "TD": {
+    "name": "Chad",
+    "continent": "AF",
+    "file": "places-TD.sqlite.gz",
+    "size": 608248,
+    "sha256": "9f9e829f69fdfff26ab5109a30253ca2a43f495196f6341a5ac3b400d634cb39"
+   },
+   "TF": {
+    "name": "French Southern Territories",
+    "continent": "AN",
+    "file": "places-TF.sqlite.gz",
+    "size": 52173,
+    "sha256": "08a72c386c63996284527827c3e83873014abd12de1fd128ede26cc7dbf4e6eb"
+   },
+   "TG": {
+    "name": "Togo",
+    "continent": "AF",
+    "file": "places-TG.sqlite.gz",
+    "size": 152220,
+    "sha256": "492b3e525553bd18946ef9d4fb1988391f071454669bb54a98346852a7330ea1"
+   },
+   "TH": {
+    "name": "Thailand",
+    "continent": "AS",
+    "file": "places-TH.sqlite.gz",
+    "size": 6135988,
+    "sha256": "9a550df8452d5ee0ded348acb3e415b97a229522cc0ed7edc7d2253a0125c693"
+   },
+   "TJ": {
+    "name": "Tajikistan",
+    "continent": "AS",
+    "file": "places-TJ.sqlite.gz",
+    "size": 172400,
+    "sha256": "6914bcb51e65ce9eef3bb1a2ccf92a721a220cf08e426a98562c88d4c5882391"
+   },
+   "TK": {
+    "name": "Tokelau",
+    "continent": "OC",
+    "file": "places-TK.sqlite.gz",
+    "size": 12579,
+    "sha256": "9ba46552472fb86a05c5c34964c68814802b7deafa6b8fa64c08fcbcb1ce7ffc"
+   },
+   "TL": {
+    "name": "Timor Leste",
+    "continent": "OC",
+    "file": "places-TL.sqlite.gz",
+    "size": 221223,
+    "sha256": "7bc038fc5f18dd72f882dd68f6ff709febb88df09f467ff5f2c4ad2bfbc02045"
+   },
+   "TM": {
+    "name": "Turkmenistan",
+    "continent": "AS",
+    "file": "places-TM.sqlite.gz",
+    "size": 144363,
+    "sha256": "963d6eb7b1c78e38f95edcf0a0acd83b8dd56cab535cadcd825fac9e5ba20b73"
+   },
+   "TN": {
+    "name": "Tunisia",
+    "continent": "AF",
+    "file": "places-TN.sqlite.gz",
+    "size": 318499,
+    "sha256": "b0de00c77a7eee747f17299adc360053f9cee59587b5ed2e94d59e732f44adc3"
+   },
+   "TO": {
+    "name": "Tonga",
+    "continent": "OC",
+    "file": "places-TO.sqlite.gz",
+    "size": 36518,
+    "sha256": "c2c19712fb03aed764faf93bfe12e2a8813d8e74e96a35f0dec96f6a89fa32b3"
+   },
+   "TR": {
+    "name": "Turkey",
+    "continent": "AS",
+    "file": "places-TR.sqlite.gz",
+    "size": 3006950,
+    "sha256": "dfd714f715e7f0b7c1850d08397364bd775fbfde3c91d59798191bbc8f8f43ce"
+   },
+   "TT": {
+    "name": "Trinidad and Tobago",
+    "continent": "NA",
+    "file": "places-TT.sqlite.gz",
+    "size": 58606,
+    "sha256": "f3be54885ae62e8384e7231535276c848ff5c15b21242ac80e9210e695da53c4"
+   },
+   "TV": {
+    "name": "Tuvalu",
+    "continent": "OC",
+    "file": "places-TV.sqlite.gz",
+    "size": 19318,
+    "sha256": "ddbf239296a381b768a75d650e864974700a578816c31179fbfa352590888f9f"
+   },
+   "TW": {
+    "name": "Taiwan",
+    "continent": "AS",
+    "file": "places-TW.sqlite.gz",
+    "size": 1138820,
+    "sha256": "d2e48c655676fde6dd8dbf7be52489e2cd97a2631845339233aed80a3dc0269f"
+   },
+   "TZ": {
+    "name": "Tanzania",
+    "continent": "AF",
+    "file": "places-TZ.sqlite.gz",
+    "size": 348293,
+    "sha256": "431d37c47c5f745d8f1b83e3a698e583d2d0192f16052ef533956f049d367c32"
+   },
+   "UA": {
+    "name": "Ukraine",
+    "continent": "EU",
+    "file": "places-UA.sqlite.gz",
+    "size": 1631310,
+    "sha256": "f97ab7a2bc83ec8cc9ae354866a6b559c12b808377b9e8d3c1b19166580c3ab9"
+   },
+   "UG": {
+    "name": "Uganda",
+    "continent": "AF",
+    "file": "places-UG.sqlite.gz",
+    "size": 550017,
+    "sha256": "6e3282b9a1f2a89a7ca5cbead96941aa8c998ec1d7bd0f1e713cb8820b67de03"
+   },
+   "UM": {
+    "name": "United States Minor Outlying Islands",
+    "continent": "OC",
+    "file": "places-UM.sqlite.gz",
+    "size": 17131,
+    "sha256": "51f8ea4c1f7b5f783761d4336932ad127fb6303f8bbbe7dccbff3221425fc837"
+   },
+   "US": {
+    "name": "United States",
+    "continent": "NA",
+    "file": "places-US.sqlite.gz",
+    "size": 26646817,
+    "sha256": "8f56e36a761ff7e256ecbe74cfa40e1dda6f3b12eec1553afbb49d18e0dfdcc0"
+   },
+   "UY": {
+    "name": "Uruguay",
+    "continent": "SA",
+    "file": "places-UY.sqlite.gz",
+    "size": 99910,
+    "sha256": "18f839e0b5d5e2f122119e6040e1082da682a5b7eb9b1d2195f826521175f761"
+   },
+   "UZ": {
+    "name": "Uzbekistan",
+    "continent": "AS",
+    "file": "places-UZ.sqlite.gz",
+    "size": 398249,
+    "sha256": "5e0c74dfa14e0ad2fc1996fc4a3fb7738f5c926439b80dc53871a48f4ad8e508"
+   },
+   "VA": {
+    "name": "Vatican",
+    "continent": "EU",
+    "file": "places-VA.sqlite.gz",
+    "size": 11598,
+    "sha256": "036db2ee63266d57ad98fc699217797baa18285d5a9414640ce3c52af34e64a2"
+   },
+   "VC": {
+    "name": "Saint Vincent and the Grenadines",
+    "continent": "NA",
+    "file": "places-VC.sqlite.gz",
+    "size": 35721,
+    "sha256": "7c628c921894b811b1e586fffd301ee45057f76b9d46701d42590e84fc571090"
+   },
+   "VE": {
+    "name": "Venezuela",
+    "continent": "SA",
+    "file": "places-VE.sqlite.gz",
+    "size": 1421157,
+    "sha256": "23634dc1655cc30ed8c672ef873c01c2e4d7ee27dc3070ff7e541e19e65ef2b7"
+   },
+   "VG": {
+    "name": "British Virgin Islands",
+    "continent": "NA",
+    "file": "places-VG.sqlite.gz",
+    "size": 31802,
+    "sha256": "3ee966a3afb81fbeb464cec2a26fb88f3817cbdfd52c09132a94e26dc68619d5"
+   },
+   "VI": {
+    "name": "U.S. Virgin Islands",
+    "continent": "NA",
+    "file": "places-VI.sqlite.gz",
+    "size": 57969,
+    "sha256": "f3028e28003ba2542465e0d4f6f80c4cc16477e4d5d69bb6adcbe55e597bed2a"
+   },
+   "VN": {
+    "name": "Vietnam",
+    "continent": "AS",
+    "file": "places-VN.sqlite.gz",
+    "size": 1841968,
+    "sha256": "cb3506e28fa736753d12ba5e55726dc3489f578d2b3b00c5db9f6ffab39d2545"
+   },
+   "VU": {
+    "name": "Vanuatu",
+    "continent": "OC",
+    "file": "places-VU.sqlite.gz",
+    "size": 119046,
+    "sha256": "d02ccb44c4304b75ab5d2fdc32ac36253835731dbd836b2f0ae4ed424d48ea4c"
+   },
+   "WF": {
+    "name": "Wallis and Futuna",
+    "continent": "OC",
+    "file": "places-WF.sqlite.gz",
+    "size": 22344,
+    "sha256": "fe322bf7d108c544aab95a9a4626c87c554e61d7e945851c1dab2ba326007c4a"
+   },
+   "WS": {
+    "name": "Samoa",
+    "continent": "OC",
+    "file": "places-WS.sqlite.gz",
+    "size": 44302,
+    "sha256": "7e0bf7c3315c3ecbca7c46ff7e2ac544268cba03ccb1bd16c2367becef65545b"
+   },
+   "XK": {
+    "name": "Kosovo",
+    "continent": "EU",
+    "file": "places-XK.sqlite.gz",
+    "size": 182512,
+    "sha256": "4b55e3455ca79b3b0ada3ca880a8b78e89cce37b265c8151ef30ff5d6443233f"
+   },
+   "YE": {
+    "name": "Yemen",
+    "continent": "AS",
+    "file": "places-YE.sqlite.gz",
+    "size": 3624175,
+    "sha256": "93188849ed24327a6974fba689eab37f6c0ed875f0f49630dedd2fcac3e48cd2"
+   },
+   "YT": {
+    "name": "Mayotte",
+    "continent": "AF",
+    "file": "places-YT.sqlite.gz",
+    "size": 28937,
+    "sha256": "cecea7e9696ebeaec3453fa1002cf69408d8bd45714e1633b2d1411cbdf998d0"
+   },
+   "ZA": {
+    "name": "South Africa",
+    "continent": "AF",
+    "file": "places-ZA.sqlite.gz",
+    "size": 1049848,
+    "sha256": "74cf79379e8c42cca9a5a41174d09610138a01d50b9d373eb7c91ead30eff9ca"
+   },
+   "ZM": {
+    "name": "Zambia",
+    "continent": "AF",
+    "file": "places-ZM.sqlite.gz",
+    "size": 526928,
+    "sha256": "562971d99728d4f2a29fee2b8be1ebbb2444c6b15bb0e5aff907527996645e64"
+   },
+   "ZW": {
+    "name": "Zimbabwe",
+    "continent": "AF",
+    "file": "places-ZW.sqlite.gz",
+    "size": 158429,
+    "sha256": "d1fe2ef823d8ca3bef541f3cb44bc7413ceeb41a478fb6d0d7d17952fdc9e66a"
+   }
+  }
+ },
+ "padus": {
+  "build_id": "padus-4.1-2026-10-16",
+  "source": "USGS GAP PAD-US 4.1 (public domain) https://doi.org/10.5066/P96WBCHS",
+  "file": "padus.sqlite.gz",
+  "size": 51153140,
+  "sha256": "29dfd21aceed9c0abdcb2defa71ccaeb9bb134b4dfb016339d6c51074ec8c170",
+  "sqlite_size": 111198208
+ }
+}
