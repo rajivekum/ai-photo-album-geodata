@@ -18,6 +18,9 @@ the latest release's files, sizes and SHA-256 checksums.
 | `padus.sqlite.gz` | Boundaries of US national/state/local parks, national forests, wilderness, wildlife refuges and monuments | ~51 MB |
 
 Each file is a gzipped SQLite database with R*Tree spatial indexes.
+Files over 20 MB are published as numbered pieces (`places-world.sqlite.gz.part01`,
+`.part02`, …) that join, in order, into the file named in the manifest. Setup
+downloads and checks each piece, then verifies the joined file's checksum.
 
 ## How it's used
 
